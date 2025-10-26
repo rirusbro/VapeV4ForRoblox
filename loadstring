@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rirusbro/VapeV4ForRoblox/main/NewMainScript.lua", true))()
